@@ -1,16 +1,26 @@
-## Hi there 👋
+# John Gursoy
 
-<!--
-**Johnberk13/Johnberk13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of Sag-AI BuildTech and creator of the Sag-AI platform and the Asena Intelligence Engine.
 
-Here are some ideas to get you started:
+Sag-AI is a human-centered artificial intelligence platform combining multilingual intelligence, emotional awareness, and hybrid offline-online AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The Asena Intelligence Engine powers voice intelligence, touchless interaction, and secure AI decision support across the Sag-AI ecosystem.
+
+## Projects
+
+### Sag-AI Platform
+https://github.com/sag-aibuildtech/sag-ai
+
+### Asena Intelligence Engine
+https://github.com/sag-aibuildtech/asena
+
+## Ecosystem
+
+Sag-AI BuildTech  
+https://sag-aibuildtech.com
+
+Founder  
+https://sag-aibuildtech.com/founder
+
+Wikidata
+https://www.wikidata.org/wiki/Q138685185

@@ -21,6 +21,3 @@ https://sag-aibuildtech.com
 
 Founder  
 https://sag-aibuildtech.com/founder
-
-Wikidata
-https://www.wikidata.org/wiki/Q138685185

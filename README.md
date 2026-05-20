@@ -1,6 +1,6 @@
 # John Gursoy
 
-Founder of Sag-AI BuildTech and creator of the Sag-AI platform and the Asena Intelligence Engine.
+Founder of Sag-AI and creator of the Sag-AI platform and the Asena Intelligence Engine.
 
 Sag-AI is a human-centered artificial intelligence platform combining multilingual intelligence, emotional awareness, and hybrid offline-online AI systems.
 
@@ -16,7 +16,7 @@ https://github.com/sag-aibuildtech/asena
 
 ## Ecosystem
 
-Sag-AI BuildTech  
+Sag-AI  
 https://sag-aibuildtech.com
 
 Founder  
